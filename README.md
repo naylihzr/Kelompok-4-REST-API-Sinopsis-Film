@@ -1,6 +1,7 @@
 # Kelompok-4-REST-API-Sinopsis-Film
 Sinopsis Film
-nama anggota: - Mellyna Agitha (201402107)
-              - Nayli Hazirah (201402113)
-              - Amelia Angelita Silalahi (201402128)
-              - Jesika Marbun (201402140)
+<p>nama anggota:</p> 
+              <p>- Mellyna Agitha (201402107)</p>
+              <p>- Nayli Hazirah (201402113)</p>
+              <p>- Amelia Angelita Silalahi (201402128)</p>
+              <p>- Jesika Marbun (201402140)p</p>
